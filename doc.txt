@@ -1,0 +1,22 @@
+font-family-----
+Poppins 400 700 500
+Roboto 400
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+color----
+blc - #000000
+green - #21B573
+red - #FD511A
+
+
+padding----
+
+
+
+common ----
+button, section-title, footer-title
+
+

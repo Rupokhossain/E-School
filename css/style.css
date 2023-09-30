@@ -1,0 +1,207 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+header{
+    padding: 5px 0;
+/*    border: 1px solid black;*/
+    background-color: #F0FFF0;
+}
+.c_nav{}
+.logo{}
+.ntoggle:focus {
+    box-shadow: none;
+    border: 1px #000000;
+}
+.menu ul li a{
+    padding: 0 25px !important;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000 !important;
+}
+.menu ul li a:hover{
+    color: #FD511A !important;
+}
+.btn_common{
+    font-family: 'Roboto', sans-serif;
+    background-color: #21B573;
+    color: #FFFFFF;
+    border-radius: 33px;
+}
+.btn_common:hover{
+    background-color: #FD511A;
+    color: #FFFFFF;
+}
+.btn_signin{
+    width: 105px;
+    height: 45px;
+}
+/*banner start */
+.banner{
+/*    border-bottom: 1px solid black;    background-color: #F0FFF0;*/
+    padding: 60px 0 80px;
+    background-color: #F0FFF0;
+}
+.b_text{}
+.b_light{
+    color: #FD511A;
+}
+.b_text h1{
+    margin: 10px 0 20px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #000;
+    line-height: 70px;
+}
+.b_text h1 span{
+    color: #21B573;
+}
+.b_ptext{
+    line-height: 36px;
+}
+.btn_link{
+    margin-top: 15px;
+    width: 145px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b_img{}
+/*banner end */
+
+/*feature start*/
+.feature{
+    padding: 0 0 100px;
+}
+.f_single{
+    margin-top: 45px;
+    padding: 55px 35px;
+    border-radius: 10px;
+    background-color: #F0FFF0;
+    transition: 0.3s;
+}
+.f_single:hover{
+    background-color: #FFF;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+.f_img{
+    margin-bottom: 20px;
+}
+.f_img img{}
+.f_single h2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000;
+}
+.f_single p{}
+/*feature end*/
+/*courses start*/
+.course{
+    padding: 0 0 100px;
+}
+.c_title{}
+.c_h1{
+    font-size: 36px;
+    font-weight: 700;
+    color: #000000;
+}
+.c_item{
+    margin-top: 60px;
+    padding: 25px 20px 30px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);
+}
+.c_item img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.c_item h2{
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.c_item p{
+    margin-bottom: 20px;
+}
+.btn_c{
+    width: 135px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c_footer{
+    margin-top: 35px;
+}
+.c_left{}
+.c_left ul{}
+.c_left ul li{}
+.c_left ul li img{}
+.c_left ul li span, .c_right ul li span{
+    font-weight: 500;
+}
+.c_right{}
+.c_right{}
+.c_right ul{}
+.c_right ul li{}
+/*courses end*/
+
+/*testimonial start*/
+.testimonial{
+    padding: 0 0 100px;
+}
+.t_item{
+    margin-top: 50px;
+}
+.t_img{}
+.t_img img{}
+.t_text{}
+.t_text p{
+    line-height: 30px;
+}
+/*testimonial end*/
+
+/*footer start*/
+footer{
+    background-color: #282531;
+    color: #FFF;
+}
+.text_1{}
+.text_1 p{
+    margin-top: 55px;
+    line-height: 30px;
+
+}
+.s_footer{
+    margin-top: 55px;
+}
+.s_footer h2{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.f_link{
+    margin-top: 10px;
+}
+.f_link li{
+    margin-bottom: 5px;
+}
+.f_link li a{
+    text-decoration: none;
+    color: #fff !important;
+    transition: 0.3s;
+}
+.f_link li a:hover{
+   color: #FD511A !important;
+}
+
+.copyright{
+    margin: 70px 0 30px;
+}
+.copyright p{
+    line-height: 30px;
+}
+/*footer end*/
